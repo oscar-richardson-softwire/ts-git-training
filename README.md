@@ -7,11 +7,12 @@ Please note that lots of the code in this repo is deliberately overly verbose an
 ## Setup
 
 1. Fork this repository so that you can push the results of your work to your own personal GitHub and practice raising PRs without affecting other people.
-2. Clone the fork.
-3. Open the project with an editor of your choice (VS Code recommended).
-4. Ensure you have Node.js >= v16 installed
-5. Install the dependencies with `npm install`
-6. Run the tests with `npm run test`
+2. When forking, make sure that the 'Copy the main branch only' option is unchecked, so that you copy all of the branches.
+3. Clone the fork.
+4. Open the project with an editor of your choice (VS Code recommended).
+5. Ensure you have Node.js >= v16 installed
+6. Install the dependencies with `npm install`
+7. Run the tests with `npm run test`
 
 ## Task
 
